@@ -1,17 +1,17 @@
 class Solution {
 public:
-    TreeNode* sortedArrayToBST(vector<int>& nums) {
-        return helper(nums,0,nums.size()-1);
-    }
-    
-     TreeNode* helper(vector<int>& nums, int start, int end) {
-        if(start>end)
+    TreeNode* fun(vector<int>& nums,int low,int high)
+    {
+        if(low>high)
             return NULL;
-         int mid = start + (end - start)/2;
-         TreeNode* BSTtree = new TreeNode(nums[mid]);
-         BSTtree->left=helper(nums,start,mid-1);
-         BSTtree->right = helper(nums,mid+1,end);
-          return BSTtree;
+        int mid=(low+high)/2;
+        TreeNode* root=new TreeNode(nums[mid]);
+        root->left=fun(nums,low,mid-1);
+        root->right=fun(nums,mid+1,high);
+        return root;
     }
-   
+    TreeNode* sortedArrayToBST(vector<int>& nums) {
+        int low=0,high=nums.size()-1;
+        return fun(nums,low,high);
+    }
 };
