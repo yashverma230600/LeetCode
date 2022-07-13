@@ -1,25 +1,29 @@
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int n=height.size();
-        int l=0,r=n-1,lmx=height[l],rmx=height[r];
-        long long ans=0;
-        while(l<r)
-        {
-            long long t=min(lmx,rmx)*(r-l);
-            // cout<<t<<" ";
-            ans=max(ans,t);
-            if(height[l]<=height[r])
-            {
-                l++;
-                if(height[l]>lmx) lmx=height[l];
+        
+        int water=0,L=0,R=height.size()-1;
+        
+        while(L<R){
+            int area;
+            if(height[L]<height[R]){
+                area = height[L]*(R-L);
+                L++;
+                
             }
-            else
-            {
-                r--;
-                if(height[r]>rmx) rmx=height[r];
+            else{
+                area = height[R]*(R-L);
+                R--;
+            }
+            if(area>water){
+                water=area;
             }
         }
-        return ans;
+            
+            return water;
+            
+        
+            
+
     }
 };
