@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yashverma230600/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/yashverma230600/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yashverma230600/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/yashverma230600/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -29,4 +31,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/yashverma230600/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/yashverma230600/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
