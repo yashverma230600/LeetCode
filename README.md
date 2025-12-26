@@ -38,4 +38,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashverma230600/LeetCode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/yashverma230600/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Prefix Sum
+|  |
+| ------- |
+| [2483-minimum-penalty-for-a-shop](https://github.com/yashverma230600/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 <!---LeetCode Topics End-->
