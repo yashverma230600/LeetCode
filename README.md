@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yashverma230600/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/yashverma230600/LeetCode/tree/master/0053-maximum-subarray) |
 | [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yashverma230600/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -46,4 +47,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2483-minimum-penalty-for-a-shop](https://github.com/yashverma230600/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yashverma230600/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
