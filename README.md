@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/yashverma230600/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/yashverma230600/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Prefix Sum
 |  |
@@ -73,5 +74,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/yashverma230600/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashverma230600/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/yashverma230600/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
