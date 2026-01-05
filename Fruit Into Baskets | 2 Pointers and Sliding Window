@@ -27,3 +27,29 @@ class Solution {
         System.out.println(sol.totalFruits(fruits)); // Output: 3
     }
     }
+
+
+===================================
+
+Name: maxFruitsInTwoBaskets
+
+Description: Given an array of fruit types (integers/strings), returns the maximum number of fruits you can pick in a contiguous subarray containing at most two distinct fruit types (sliding-window / two-pointer solution).
+
+TC (Time Complexity): O(n) — each element is visited at most twice (entering and leaving the window).
+
+SC (Space Complexity): O(1) — uses a small fixed-size map/counters for at most two fruit types (or O(k) with k ≤ 2).
+
+Short approach summary: expand the right pointer adding counts; if more than two distinct types, move the left pointer and decrement counts until at most two remain; track max window length.
+
+Example test cases:
+
+Input: [1, 2, 1]
+Output: 3 (whole array)
+Input: [0, 1, 2, 2]
+Output: 3 (subarray [1,2,2])
+Input: [1, 2, 3, 2, 2]
+Output: 4 (subarray [3,2,2] or [2,3,2,2] depending on indices)
+Input: []
+Output: 0
+Input: [5, 5, 5, 5]
+Output: 4
