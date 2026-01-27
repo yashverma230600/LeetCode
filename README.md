@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashverma230600/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashverma230600/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashverma230600/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1200-minimum-absolute-difference](https://github.com/yashverma230600/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashverma230600/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashverma230600/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashverma230600/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/yashverma230600/LeetCode/tree/master/0056-merge-intervals) |
+| [1200-minimum-absolute-difference](https://github.com/yashverma230600/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/yashverma230600/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/yashverma230600/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
