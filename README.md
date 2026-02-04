@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/yashverma230600/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashverma230600/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yashverma230600/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/yashverma230600/LeetCode/tree/master/0283-move-zeroes) |
 | [0930-binary-subarrays-with-sum](https://github.com/yashverma230600/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/yashverma230600/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/yashverma230600/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashverma230600/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/yashverma230600/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashverma230600/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/yashverma230600/LeetCode/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
 | ------- |
