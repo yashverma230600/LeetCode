@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/yashverma230600/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/yashverma230600/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashverma230600/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashverma230600/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashverma230600/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yashverma230600/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashverma230600/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashverma230600/LeetCode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashverma230600/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashverma230600/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 ## Sorting
