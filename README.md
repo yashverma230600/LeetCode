@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/yashverma230600/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashverma230600/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yashverma230600/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/yashverma230600/LeetCode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/yashverma230600/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/yashverma230600/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashverma230600/LeetCode/tree/master/0075-sort-colors) |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yashverma230600/LeetCode/tree/master/0048-rotate-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashverma230600/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Sliding Window
 |  |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yashverma230600/LeetCode/tree/master/0048-rotate-image) |
 | [1248-count-number-of-nice-subarrays](https://github.com/yashverma230600/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashverma230600/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Quickselect
