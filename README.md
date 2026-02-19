@@ -1,160 +1,131 @@
-# LeetCode
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# Find Repeating Numbers in Array
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/yashverma230600/LeetCode/tree/master/0001-two-sum) |
-| [0015-3sum](https://github.com/yashverma230600/LeetCode/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/yashverma230600/LeetCode/tree/master/0018-4sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/yashverma230600/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0031-next-permutation](https://github.com/yashverma230600/LeetCode/tree/master/0031-next-permutation) |
-| [0048-rotate-image](https://github.com/yashverma230600/LeetCode/tree/master/0048-rotate-image) |
-| [0053-maximum-subarray](https://github.com/yashverma230600/LeetCode/tree/master/0053-maximum-subarray) |
-| [0054-spiral-matrix](https://github.com/yashverma230600/LeetCode/tree/master/0054-spiral-matrix) |
-| [0056-merge-intervals](https://github.com/yashverma230600/LeetCode/tree/master/0056-merge-intervals) |
-| [0075-sort-colors](https://github.com/yashverma230600/LeetCode/tree/master/0075-sort-colors) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashverma230600/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashverma230600/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0169-majority-element](https://github.com/yashverma230600/LeetCode/tree/master/0169-majority-element) |
-| [0215-kth-largest-element-in-an-array](https://github.com/yashverma230600/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
-| [0217-contains-duplicate](https://github.com/yashverma230600/LeetCode/tree/master/0217-contains-duplicate) |
-| [0283-move-zeroes](https://github.com/yashverma230600/LeetCode/tree/master/0283-move-zeroes) |
-| [0560-subarray-sum-equals-k](https://github.com/yashverma230600/LeetCode/tree/master/0560-subarray-sum-equals-k) |
-| [0930-binary-subarrays-with-sum](https://github.com/yashverma230600/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
-| [1004-max-consecutive-ones-iii](https://github.com/yashverma230600/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
-| [1200-minimum-absolute-difference](https://github.com/yashverma230600/LeetCode/tree/master/1200-minimum-absolute-difference) |
-| [1248-count-number-of-nice-subarrays](https://github.com/yashverma230600/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
-| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashverma230600/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashverma230600/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashverma230600/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
-| [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
-| [3074-apple-redistribution-into-boxes](https://github.com/yashverma230600/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
-| [3075-maximize-happiness-of-selected-children](https://github.com/yashverma230600/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashverma230600/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [1004-max-consecutive-ones-iii](https://github.com/yashverma230600/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
-| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashverma230600/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
-| [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/yashverma230600/LeetCode/tree/master/0053-maximum-subarray) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashverma230600/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashverma230600/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
-| [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/yashverma230600/LeetCode/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/yashverma230600/LeetCode/tree/master/0018-4sum) |
-| [0056-merge-intervals](https://github.com/yashverma230600/LeetCode/tree/master/0056-merge-intervals) |
-| [0075-sort-colors](https://github.com/yashverma230600/LeetCode/tree/master/0075-sort-colors) |
-| [0169-majority-element](https://github.com/yashverma230600/LeetCode/tree/master/0169-majority-element) |
-| [0215-kth-largest-element-in-an-array](https://github.com/yashverma230600/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
-| [0217-contains-duplicate](https://github.com/yashverma230600/LeetCode/tree/master/0217-contains-duplicate) |
-| [1200-minimum-absolute-difference](https://github.com/yashverma230600/LeetCode/tree/master/1200-minimum-absolute-difference) |
-| [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
-| [3074-apple-redistribution-into-boxes](https://github.com/yashverma230600/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
-| [3075-maximize-happiness-of-selected-children](https://github.com/yashverma230600/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/yashverma230600/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
-| [2054-two-best-non-overlapping-events](https://github.com/yashverma230600/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
-## Greedy
-|  |
-| ------- |
-| [3074-apple-redistribution-into-boxes](https://github.com/yashverma230600/LeetCode/tree/master/3074-apple-redistribution-into-boxes) |
-| [3075-maximize-happiness-of-selected-children](https://github.com/yashverma230600/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/yashverma230600/LeetCode/tree/master/0053-maximum-subarray) |
-| [0169-majority-element](https://github.com/yashverma230600/LeetCode/tree/master/0169-majority-element) |
-| [0215-kth-largest-element-in-an-array](https://github.com/yashverma230600/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
-## String
-|  |
-| ------- |
-| [0424-longest-repeating-character-replacement](https://github.com/yashverma230600/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashverma230600/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-| [2483-minimum-penalty-for-a-shop](https://github.com/yashverma230600/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
-## Prefix Sum
-|  |
-| ------- |
-| [0560-subarray-sum-equals-k](https://github.com/yashverma230600/LeetCode/tree/master/0560-subarray-sum-equals-k) |
-| [0930-binary-subarrays-with-sum](https://github.com/yashverma230600/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
-| [1004-max-consecutive-ones-iii](https://github.com/yashverma230600/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
-| [1248-count-number-of-nice-subarrays](https://github.com/yashverma230600/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashverma230600/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashverma230600/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
-| [2483-minimum-penalty-for-a-shop](https://github.com/yashverma230600/LeetCode/tree/master/2483-minimum-penalty-for-a-shop) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/yashverma230600/LeetCode/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/yashverma230600/LeetCode/tree/master/0018-4sum) |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/yashverma230600/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/yashverma230600/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0031-next-permutation](https://github.com/yashverma230600/LeetCode/tree/master/0031-next-permutation) |
-| [0075-sort-colors](https://github.com/yashverma230600/LeetCode/tree/master/0075-sort-colors) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashverma230600/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0283-move-zeroes](https://github.com/yashverma230600/LeetCode/tree/master/0283-move-zeroes) |
-## Linked List
-|  |
-| ------- |
-| [0019-remove-nth-node-from-end-of-list](https://github.com/yashverma230600/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
-| [0021-merge-two-sorted-lists](https://github.com/yashverma230600/LeetCode/tree/master/0021-merge-two-sorted-lists) |
-## Recursion
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/yashverma230600/LeetCode/tree/master/0021-merge-two-sorted-lists) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/yashverma230600/LeetCode/tree/master/0048-rotate-image) |
-| [0054-spiral-matrix](https://github.com/yashverma230600/LeetCode/tree/master/0054-spiral-matrix) |
-| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/yashverma230600/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
-## Sliding Window
-|  |
-| ------- |
-| [0424-longest-repeating-character-replacement](https://github.com/yashverma230600/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
-| [0930-binary-subarrays-with-sum](https://github.com/yashverma230600/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
-| [1004-max-consecutive-ones-iii](https://github.com/yashverma230600/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
-| [1248-count-number-of-nice-subarrays](https://github.com/yashverma230600/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashverma230600/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yashverma230600/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/yashverma230600/LeetCode/tree/master/0001-two-sum) |
-| [0169-majority-element](https://github.com/yashverma230600/LeetCode/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/yashverma230600/LeetCode/tree/master/0217-contains-duplicate) |
-| [0424-longest-repeating-character-replacement](https://github.com/yashverma230600/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
-| [0560-subarray-sum-equals-k](https://github.com/yashverma230600/LeetCode/tree/master/0560-subarray-sum-equals-k) |
-| [0930-binary-subarrays-with-sum](https://github.com/yashverma230600/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
-| [1248-count-number-of-nice-subarrays](https://github.com/yashverma230600/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
-| [1358-number-of-substrings-containing-all-three-characters](https://github.com/yashverma230600/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
-## Math
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/yashverma230600/LeetCode/tree/master/0048-rotate-image) |
-| [1248-count-number-of-nice-subarrays](https://github.com/yashverma230600/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/yashverma230600/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
-## Quickselect
-|  |
-| ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/yashverma230600/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/yashverma230600/LeetCode/tree/master/0169-majority-element) |
-## Simulation
-|  |
-| ------- |
-| [0054-spiral-matrix](https://github.com/yashverma230600/LeetCode/tree/master/0054-spiral-matrix) |
-<!---LeetCode Topics End-->
+## Problem Statement
+Find all repeating/duplicate numbers in an array where values are in the range [1, n].
+
+## Solution Approach
+This solution uses an **in-place marking technique** by utilizing the sign of array elements as markers to track visited numbers.
+
+## Algorithm Explanation
+
+### Core Strategy
+- Use array indices as markers by making values negative
+- If we encounter a value whose corresponding index is already negative, it's a duplicate
+- Time Complexity: O(n)
+- Space Complexity: O(1) (excluding result list)
+
+## Line-by-Line Code Explanation
+
+### Initialization
+```java
+List<Integer> list = new ArrayList<>();
+int idx = 0;
+```
+- Creates an empty list to store duplicate numbers
+- Declares `idx` variable to hold the calculated index
+
+### Main Algorithm Loop
+```java
+for(int i=0; i<arr.length; i++){
+    idx = Math.abs(arr[i])-1;
+    if(arr[idx]<0){
+        list.add(Math.abs(arr[i]));
+    } else {
+        arr[idx] = -arr[idx];
+    }
+}
+```
+
+**Line 1**: Loop through each element in the array
+
+**Line 2**: Calculate index position
+- `Math.abs(arr[i])` - Get absolute value (needed because we modify values to negative)
+- Subtract 1 because array is 0-indexed but values are 1-indexed
+
+**Line 3**: Check if position is already marked (negative)
+- If negative, this number has been seen before → it's a duplicate
+
+**Line 4**: Add the duplicate to result list
+- Use `Math.abs()` to get the original value
+
+**Line 6**: Mark this number as visited
+- Make the value at calculated index negative
+
+## Step-by-Step Example
+
+**Input**: `arr = [1, 3, 2, 3, 1]`
+
+### Iteration 1 (i=0):
+- Element: `arr[0] = 1`
+- Index: `idx = |1| - 1 = 0`
+- Check: `arr[0] = 1` (positive, not visited)
+- Action: Mark as visited → `arr[0] = -1`
+- **Array**: `[-1, 3, 2, 3, 1]`
+- **Result**: `[]`
+
+### Iteration 2 (i=1):
+- Element: `arr[1] = 3`
+- Index: `idx = |3| - 1 = 2`
+- Check: `arr[2] = 2` (positive, not visited)
+- Action: Mark as visited → `arr[2] = -2`
+- **Array**: `[-1, 3, -2, 3, 1]`
+- **Result**: `[]`
+
+### Iteration 3 (i=2):
+- Element: `arr[2] = -2`
+- Index: `idx = |-2| - 1 = 1`
+- Check: `arr[1] = 3` (positive, not visited)
+- Action: Mark as visited → `arr[1] = -3`
+- **Array**: `[-1, -3, -2, 3, 1]`
+- **Result**: `[]`
+
+### Iteration 4 (i=3):
+- Element: `arr[3] = 3`
+- Index: `idx = |3| - 1 = 2`
+- Check: `arr[2] = -2` (negative, **already visited!**)
+- Action: Add duplicate → `list.add(3)`
+- **Array**: `[-1, -3, -2, 3, 1]`
+- **Result**: `[3]`
+
+### Iteration 5 (i=4):
+- Element: `arr[4] = 1`
+- Index: `idx = |1| - 1 = 0`
+- Check: `arr[0] = -1` (negative, **already visited!**)
+- Action: Add duplicate → `list.add(1)`
+- **Array**: `[-1, -3, -2, 3, 1]`
+- **Result**: `[3, 1]`
+
+## Final Output
+```
+Repeating numbers: [3, 1]
+```
+
+## Key Insights
+
+1. **Index Mapping**: Value `k` uses index `k-1` as its marker
+2. **Sign as Marker**: Negative sign indicates "visited"
+3. **Math.abs() Usage**: Required because we modify values to negative during traversal
+4. **In-Place Modification**: Array is modified but can be restored if needed
+5. **Single Pass**: Only one iteration through the array needed
+
+## Constraints
+
+- Array values must be in range **[1, n]** where n is the array length
+- This constraint allows us to use array indices as markers
+- If values can be outside this range, a different approach (HashMap) would be needed
+
+## Complexity Analysis
+
+| Metric | Value | Explanation |
+|--------|-------|-------------|
+| Time Complexity | O(n) | Single pass through array |
+| Space Complexity | O(1) | In-place marking (excluding result) |
+| Auxiliary Space | O(k) | Where k is number of duplicates |
+
+## Alternative Approaches
+
+1. **HashMap**: O(n) time, O(n) space - stores frequency count
+2. **Sorting**: O(n log n) time, O(1) space - sort and find consecutive duplicates
+3. **Set**: O(n) time, O(n) space - track seen elements
+
+This solution is optimal for the given constraints!
