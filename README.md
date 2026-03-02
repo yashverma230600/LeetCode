@@ -3,7 +3,7 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String ##
-|  ||
+|  |
 | ------- |
 | [0049-group-anagrams](https://github.com/yashverma230600/LeetCode/tree/master/0049-group-anagrams) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashverma230600/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -19,6 +19,7 @@
 | [0015-3sum](https://github.com/yashverma230600/LeetCode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashverma230600/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/yashverma230600/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/yashverma230600/LeetCode/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/yashverma230600/LeetCode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/yashverma230600/LeetCode/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -31,6 +32,7 @@
 | ------- |
 | [0015-3sum](https://github.com/yashverma230600/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/yashverma230600/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/yashverma230600/LeetCode/tree/master/0056-merge-intervals) |
 ## Binary Search
 |  |
 | ------- |
