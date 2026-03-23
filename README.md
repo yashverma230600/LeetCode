@@ -53,6 +53,7 @@
 | [0162-find-peak-element](https://github.com/yashverma230600/LeetCode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashverma230600/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/yashverma230600/LeetCode/tree/master/0704-binary-search) |
+| Sqrt of a number using B search |
 ## Math
 |  |
 | ------- |
