@@ -6,12 +6,14 @@ class Solution {
             Arrays.sort(c);
             String key=String.valueOf(c);
 
-
             if(!map.containsKey(key)){
                 map.put(key,new ArrayList<>());
             }
             map.get(key).add(s);
-        }
-        return new ArrayList<>(map.values());
+
+
+
+                    }
+                    return new ArrayList<>(map.values());
     }
 }
