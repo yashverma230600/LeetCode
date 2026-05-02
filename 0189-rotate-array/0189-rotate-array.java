@@ -7,16 +7,14 @@ class Solution {
         reverse(nums,0,k-1);
         reverse(nums,k,n-1);
     }
-        public void reverse(int[] nums, int left, int right){
-
-            while(left<right){
-                int temp=nums[right];
-                nums[right]=nums[left];
-                nums[left]=temp;
-                left++;
-                right--;
+        public void reverse(int[] nums, int start, int end){
+            while(start<end){
+                int temp=nums[end];
+                nums[end]=nums[start];
+                nums[start]=temp;
+                start++;
+                end--;
             }
         }
-
     
 }
