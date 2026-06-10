@@ -6,7 +6,7 @@ class Solution {
 
         int Ps=intervals[0][0];
         int Pe=intervals[0][1];
-        for(int i=0;i<intervals.length;i++){
+        for(int i=1;i<intervals.length;i++){
             if(intervals[i][0]<=Pe){
                 Pe=Math.max(Pe,intervals[i][1]);
             }
