@@ -8,7 +8,7 @@ class Solution {
         int Pe=intervals[0][1];
         for(int i=0;i<intervals.length;i++){
             if(intervals[i][0]<=Pe){
-                Pe=Math.max(Pe,intervals[i][0]);
+                Pe=Math.max(Pe,intervals[i][1]);
             }
             else{
                 result.add(Arrays.asList(Ps,Pe));
