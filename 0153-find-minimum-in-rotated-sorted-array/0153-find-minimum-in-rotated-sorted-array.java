@@ -2,8 +2,8 @@ class Solution {
     public int findMin(int[] nums) {
         int l=0,r=nums.length-1,min=Integer.MAX_VALUE;
         while(l<=r){
+            //left sorter
             int mid=(l+r)/2;
-            //left sorted
             if(nums[l]<=nums[mid]){
                 min=Math.min(min,nums[l]);
                 l=mid+1;
