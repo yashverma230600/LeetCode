@@ -6,16 +6,14 @@ class Solution {
 
         for(int i=0;i<nums.length;i++){
             preSum+=nums[i];
-            int remove = preSum-k;
+            int remove=preSum-k;
             if(map.containsKey(remove)){
-            c+=map.get(remove);
+                c+=map.get(remove);
+
+
             }
-        map.put(preSum,map.getOrDefault(preSum,0)+1);
-
+            map.put(preSum,map.getOrDefault(preSum,0)+1);
         }
-
-
-
         return c;
     }
 }
